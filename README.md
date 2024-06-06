@@ -12,11 +12,6 @@ I am a Full-stack developer with 5+ years of experience. My core strengths are b
 
 <br/>
 
-### My stats ⭐
 
-<div align="center">
-
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairohitsingampalli&layout=compact&&langs_count=15"/>
-</div>
 
 
