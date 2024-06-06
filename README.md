@@ -13,8 +13,8 @@ I am a Full-stack developer with 5+ years of experience. My core strengths are b
 ### My stats ⭐
 
 <div align="center">
-<img alt="Sai Rohit's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=SaiRohitSingampalli&show_icons=true&theme=transparent"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiRohitSingampalli&layout=compact&&langs_count=8"/>
+<img alt="Sai Rohit's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sairohitsingampalli&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairohitsingampalli&layout=compact&&langs_count=15"/>
 </div>
 
 
