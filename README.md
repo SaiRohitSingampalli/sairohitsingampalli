@@ -17,5 +17,4 @@ I am a Full-stack developer with 5+ years of experience. My core strengths are b
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiRohitSingampalli&layout=compact&&langs_count=8"/>
 </div>
 
-### Profile views counter 👁️‍🗨️
-[![Sai Rohit's profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/SaiRohitSingampalli)
+
